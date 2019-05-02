@@ -43,7 +43,6 @@ __________;
 
 // I love the Beatles function:
 // Function:
-// I believe this completes the test but it does not pass...
     function iLoveTheBeatles (number) {
       var anArray = [];
       do {
